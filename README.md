@@ -37,8 +37,7 @@ Open your browser and navigate to http://127.0.0.1:8050/ to interact with the ap
 3. Data Source
 The geospatial data (saude_rmpa.geojson) includes information on healthcare facilities in the Porto Alegre Metropolitan Region. It is read and processed using GeoPandas.
 
-![image](https://github.com/user-attachments/assets/f9d5d9bc-dba3-401e-99a5-85002e4725ca)
-
+![choropleth](https://github.com/user-attachments/assets/f121746d-b757-426a-a55a-ea3e9f54c622)
 
 4. Future Enhancements
 Add more datasets and variables for deeper insights.
